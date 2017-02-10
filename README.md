@@ -6,14 +6,14 @@
 
 # Material das aulas
 
-* [Aula 01 - Introdução](https://github.com/alexkutzke/cursoror-material/blob/master/01.html)
-* [Aula 02 - Aplicação "do zero"](https://github.com/alexkutzke/cursoror-material/blob/master/02.html)
-* [Aula 03 - Continuação "Aplicação 'do zero'", console e seed](https://github.com/alexkutzke/cursoror-material/blob/master/03.html)
-* [Aula 04 - Controllers e prática](https://github.com/alexkutzke/cursoror-material/blob/master/04.html)
-* [Aula 05 - Aplicação Movie Store](https://github.com/alexkutzke/cursoror-material/blob/master/05.html)
-* [Aula 06 - Autenticação e Autorização](https://github.com/alexkutzke/cursoror-material/blob/master/06.html)
-* [Aula 07 - Término da aplicação Movie Store](https://github.com/alexkutzke/cursoror-material/blob/master/07.html)
-* [Aula 08 - Deploy, internacionalização e testes](https://github.com/alexkutzke/cursoror-material/blob/master/08.html)
+* [Aula 01 - Introdução](https://github.com/alexkutzke/cursoror-material/blob/master/01.md)
+* [Aula 02 - Aplicação "do zero"](https://github.com/alexkutzke/cursoror-material/blob/master/02.md)
+* [Aula 03 - Continuação "Aplicação 'do zero'", console e seed](https://github.com/alexkutzke/cursoror-material/blob/master/03.md)
+* [Aula 04 - Controllers e prática](https://github.com/alexkutzke/cursoror-material/blob/master/04.md)
+* [Aula 05 - Aplicação Movie Store](https://github.com/alexkutzke/cursoror-material/blob/master/05.md)
+* [Aula 06 - Autenticação e Autorização](https://github.com/alexkutzke/cursoror-material/blob/master/06.md)
+* [Aula 07 - Término da aplicação Movie Store](https://github.com/alexkutzke/cursoror-material/blob/master/07.md)
+* [Aula 08 - Deploy, internacionalização e testes](https://github.com/alexkutzke/cursoror-material/blob/master/08.md)
 
 # Sobre o Curso
 
